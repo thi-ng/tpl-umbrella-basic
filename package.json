@@ -11,15 +11,16 @@
 		"preview": "vite preview --host --open"
 	},
 	"devDependencies": {
-		"typescript": "^4.8.4",
-		"vite": "^3.2.2"
+		"typescript": "^4.9.5",
+		"vite": "^4.1.1",
+		"vite-plugin-html": "^3.2.0"
 	},
 	"dependencies": {
-		"@thi.ng/api": "^8.4.5",
-		"@thi.ng/hiccup-html": "^2.1.16",
-		"@thi.ng/rdom": "^0.9.18",
-		"@thi.ng/rstream": "^7.2.27",
-		"@thi.ng/transducers": "^8.3.22"
+		"@thi.ng/api": "^8.7.2",
+		"@thi.ng/hiccup-html": "^2.2.8",
+		"@thi.ng/rdom": "^0.10.9",
+		"@thi.ng/rstream": "^7.2.38",
+		"@thi.ng/transducers": "^8.3.33"
 	},
 	"browser": {
 		"process": false
