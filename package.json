@@ -5,6 +5,7 @@
 	"repository": "https://github.com/TODO/TODO",
 	"author": "TODO",
 	"license": "MIT",
+	"type": "module",
 	"scripts": {
 		"start": "vite --open",
 		"build": "tsc && vite build --base='./'",
@@ -22,7 +23,14 @@
 		"@thi.ng/rstream": "latest",
 		"@thi.ng/transducers": "latest"
 	},
+	"browsersList": [
+		"last 3 chrome versions"
+	],
 	"browser": {
 		"process": false
-	}
+	},
+	"keywords": [
+		"thing-umbrella",
+		"typescript"
+	]
 }
