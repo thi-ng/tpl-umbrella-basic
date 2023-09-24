@@ -23,6 +23,9 @@ cd <path-where-you-cloned-this-tpl>
 # download all dependencies (can also use npm)
 yarn install
 
+# alternatively, ensure you're using latest package versions
+yarn upgrade-interactive --latest
+
 # start dev server & open in browser
 yarn start
 ```
