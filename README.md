@@ -30,8 +30,13 @@ yarn upgrade-interactive --latest
 yarn start
 ```
 
+Note: The [vite-plugin-html](https://github.com/vbenjs/vite-plugin-html) used
+for minifying the HTML in production builds is currently causing deprecation
+warnings in Vite v5+. PRs for an alternative solution are much appreciated.
+Thanks!
+
 ## License
 
 This project is licensed under the MIT License. See LICENSE.txt
 
-&copy; 2022 Karsten Schmidt
+&copy; 2023 Karsten Schmidt
