@@ -12,16 +12,16 @@
 		"preview": "vite preview --host --open"
 	},
 	"devDependencies": {
-		"typescript": "^5.5.4",
-		"vite": "^5.4.1",
+		"typescript": "^5.8.3",
+		"vite": "^7.0.6",
 		"vite-plugin-html": "^3.2.2"
 	},
 	"dependencies": {
-		"@thi.ng/api": "^8.11.9",
-		"@thi.ng/hiccup-html": "^2.7.5",
-		"@thi.ng/rdom": "^1.6.4",
-		"@thi.ng/rstream": "^9.0.0",
-		"@thi.ng/transducers": "^9.2.0"
+		"@thi.ng/api": "^8.11.32",
+		"@thi.ng/hiccup-html": "^2.7.30",
+		"@thi.ng/rdom": "^1.7.51",
+		"@thi.ng/rstream": "^9.2.34",
+		"@thi.ng/transducers": "^9.6.3"
 	},
 	"browsersList": [
 		"last 3 chrome versions"

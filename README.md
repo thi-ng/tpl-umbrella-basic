@@ -39,4 +39,4 @@ Thanks!
 
 This project is licensed under the MIT License. See LICENSE.txt
 
-&copy; 2023 Karsten Schmidt
+&copy; 2023 - 2025 Karsten Schmidt
